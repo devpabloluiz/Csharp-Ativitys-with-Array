@@ -1,1 +1,2 @@
-# List of exercises in csharp
+# Csharp Ativitys with Array
+
